@@ -1,0 +1,86 @@
+newmtl Lrootpart1Mtl
+Material Color
+Ka 0.21952 0.505432 0.722672
+Kd 0.21952 0.505432 0.722672
+Ks 0.0137738 0.0317134 0.0453442 
+
+d 1
+
+Ns 0
+
+newmtl RightLegMesh1Mtl
+Material Color
+Ka 0.21952 0.505432 0.722672
+Kd 0.21952 0.505432 0.722672
+Ks 0.086947 0.200191 0.286235 
+
+d 1
+
+Ns 0
+
+newmtl Basemoreopened2Mtl
+Material Color
+Ka 0.708298 0.242796 0.197516
+Kd 0.708298 0.242796 0.197516
+Ks 0.0444422 0.0152343 0.0123932 
+
+d 1
+
+Ns 0
+
+map_Ka Basemoreopened2_diff.png
+map_Kd Basemoreopened2_diff.png
+map_d Basemoreopened2_diff.png
+
+newmtl Bloodmoon2421Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Bloodmoon2421_diff.png
+map_Kd Bloodmoon2421_diff.png
+map_d Bloodmoon2421_diff.png
+
+newmtl Basemoreopened3Mtl
+Material Color
+Ka 0.442323 0.151058 0.124741
+Kd 0.442323 0.151058 0.124741
+Ks 0.0277536 0.00947815 0.00782688 
+
+d 1
+
+Ns 0
+
+map_Ka Basemoreopened3_diff.png
+map_Kd Basemoreopened3_diff.png
+map_d Basemoreopened3_diff.png
+
+newmtl RightBreast2Mtl
+Material Color
+Ka 0.113921 0.263175 0.373615
+Kd 0.113921 0.263175 0.373615
+Ks 0.0451216 0.104238 0.147981 
+
+d 1
+
+Ns 0
+
+map_Ka RightBreast2_diff.png
+map_Kd RightBreast2_diff.png
+map_d RightBreast2_diff.png
+
+newmtl Nipple1Mtl
+Material Color
+Ka 0.111299 0.259027 0.368591
+Kd 0.111299 0.259027 0.368591
+Ks 0.00698349 0.0162527 0.0231273 
+
+d 1
+
+Ns 0
+
